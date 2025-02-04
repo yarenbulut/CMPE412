@@ -73,8 +73,3 @@ This project simulates the political hierarchy of the Roman Empire over 200 year
 
 ## 📝 **License**
 This project is licensed under the **MIT License** - see the LICENSE file for details.
-
----
-
-This README provides a **clear, structured, and professional** overview of your project. 🚀 If eklememiz gereken başka detaylar varsa, haber ver! 😊
-
